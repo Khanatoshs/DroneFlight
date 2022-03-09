@@ -1,0 +1,647 @@
+{
+    "heading_mode": "TOWARD_POINT_OF_INTEREST",
+    "fineshed_action": "GO_HOME",
+    "flight_path_mode": "NORMAL",
+    "goto_waypoint_mode": "SAFELY",
+    "max_flight_speed": 10,
+    "auto_flight_speed": 5,
+    "repeat_times": 1,
+    "point_of_interest": [41.84182360, 140.76696396],
+    "exit_mission_on_rc_signal_lost_enabled": false,
+    "gimbal_pitch_rotation_enabled": true,
+    "waypoint_list":[
+        {   
+            "order": 0,
+            "coordinate": [41.84110517,140.7660582],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                {
+                    "order": 0
+                }
+            ]
+        },
+        {   
+            "order": 1,
+            "coordinate": [41.84104587,140.7660165],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 2,
+            "coordinate": [41.84098657,140.7659749],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+               
+            ]
+        },
+        {   
+            "order": 3,
+            "coordinate": [41.84092726,140.7659333],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 4,
+            "coordinate": [41.84086796,140.7658916],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 5,
+            "coordinate": [41.84080866,140.76585],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 6,
+            "coordinate": [41.84074935,140.7658084],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 7,
+            "coordinate": [41.84069005,140.7657667],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 8,
+            "coordinate": [41.84063075,140.7657251],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 9,
+            "coordinate": [41.84057145,140.7656835],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 10,
+            "coordinate": [41.84051214,140.7656418],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 11,
+            "coordinate": [41.84045284,140.7656002],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 12,
+            "coordinate": [41.84039354,140.7655586],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 13,
+            "coordinate": [41.8403377,140.7657018],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 14,
+            "coordinate": [41.84039701,140.7657435],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 15,
+            "coordinate": [41.84045631,140.7657851],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 16,
+            "coordinate": [41.84051561,140.7658267],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 17,
+            "coordinate": [41.84057492,140.7658684],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 18,
+            "coordinate": [41.84063422,140.76591],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 19,
+            "coordinate": [41.84069352,140.7659516],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 20,
+            "coordinate": [41.84075283,140.76599332],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 21,
+            "coordinate": [41.84081213,140.7660349],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 22,
+            "coordinate": [41.84087143,140.7660765],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 23,
+            "coordinate": [41.84093074,140.7661182],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 24,
+            "coordinate": [41.84099004,140.7661598],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 25,
+            "coordinate": [41.84104934,140.7662014],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 26,
+            "coordinate": [41.84099351,140.7663447],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 27,
+            "coordinate": [41.84093421,140.7663031],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 28,
+            "coordinate": [41.84087491,140.7662615],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 29,
+            "coordinate": [41.8407563,140.7661782],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 30,
+            "coordinate": [41.840697,140.7661366],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 31,
+            "coordinate": [41.84063769,140.7660949],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 32,
+            "coordinate": [41.84057839,140.7660533],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 33,
+            "coordinate": [41.84051909, 140.7660117],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {   
+            "order": 34,
+            "coordinate": [41.84045978, 140.76597],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+                
+            ]
+        },
+        {    
+            "order": 35,
+            "coordinate": [41.84040048, 140.7659284],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 36,
+            "coordinate": [41.84034118, 140.7658867],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 37,
+            "coordinate": [41.84028187, 140.7658451],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 38,
+            "coordinate": [41.84022604, 140.7659884],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 39,
+            "coordinate": [41.84028535, 140.76603],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 40,
+            "coordinate": [41.84034465, 140.7660717],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 41,
+            "coordinate": [41.84040395, 140.7661133],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 42,
+            "coordinate": [41.84046326, 140.7661549],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 43,
+            "coordinate": [41.84052256, 140.7661966],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 44,
+            "coordinate": [41.84058186, 140.7662382],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 45,
+            "coordinate": [41.84064117, 140.7662798],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 46,
+            "coordinate": [41.84070047, 140.7663215],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 47,
+            "coordinate": [41.84075977, 140.7663631],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 48,
+            "coordinate": [41.84040048, 140.7659284],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 49,
+            "coordinate": [41.84081907, 140.7664047],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 50,
+            "coordinate": [41.84087838, 140.7664464],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 51,
+            "coordinate": [41.84093768, 140.766488],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 52,
+            "coordinate": [41.84088185, 140.7666313],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+   ]
+        },
+        {    
+            "order": 53,
+            "coordinate": [41.84082255, 140.7665896],
+            "altitude": 70,
+            "corner_radius": 0.2,
+            "turn_mode": "CLOCKWISE",
+            "gimbal_pitch": -90,
+            "speed": 3,
+            "action_list":[
+ 
+                
+            ]
+        }
+    ]
+}
